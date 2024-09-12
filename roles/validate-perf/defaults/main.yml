@@ -1,0 +1,5 @@
+---
+dstat_log_name: dstat-csv.log
+dstat_options: tcmndrylpg
+dstat_delay: 1
+kernel_sec: true
